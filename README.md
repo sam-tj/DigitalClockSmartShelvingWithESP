@@ -1,4 +1,8 @@
 # DigitalClockSmartShelvingWithESP
+![PIC1](https://raw.githubusercontent.com/sam-tj/DigitalClockSmartShelvingWithESP/master/Sample%20Pic1.jpg "PIC1")
+
+![PIC2](https://raw.githubusercontent.com/sam-tj/DigitalClockSmartShelvingWithESP/master/Sample%20Pic2.jpg "PIC2")
+
 DIY 3D printed clock working with NodeMCU (ESP-12)
 
 The project uses NTP server to get the Time values and uses it to display it on the clock.
