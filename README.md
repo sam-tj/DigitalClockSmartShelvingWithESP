@@ -25,7 +25,7 @@ You need to download the following:
 ### Tutorial
 This project is a fork from DIY Machines project "*Giant Hidden Shelf Edge Clock*"
 
-Thus can use the same tutorial for assembly of the clock,https://www.instructables.com/id/How-to-Build-a-Giant-Hidden-Shelf-Edge-Clock/
+Thus can use the same tutorial for assembly of the clock: https://www.instructables.com/id/How-to-Build-a-Giant-Hidden-Shelf-Edge-Clock/
 
 3D Files can be found here: https://www.thingiverse.com/thing:4207524/files
 
